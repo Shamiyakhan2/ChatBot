@@ -1,0 +1,19 @@
+diabetes:
+  avoid: ["sugar", "white bread", "soda", "sweets"]
+  prefer: ["whole grains", "green leafy vegetables", "nuts", "lean proteins"]
+
+obesity:
+  avoid: ["fast food", "deep fried items", "sugary drinks"]
+  prefer: ["salads", "fruits", "boiled vegetables"]
+
+anemia:
+  avoid: ["tea after meals", "junk food"]
+  prefer: ["spinach", "beetroot", "pomegranate", "iron-rich foods"]
+
+pcos:
+  avoid: ["refined carbs", "junk food", "sugary snacks"]
+  prefer: ["high-fiber foods", "lean proteins", "omega-3 sources"]
+
+kidney_stones:
+  avoid: ["excess salt", "red meat", "soda"]
+  prefer: ["citrus fruits", "plenty of water", "low-oxalate vegetables"]

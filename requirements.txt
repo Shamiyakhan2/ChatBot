@@ -1,0 +1,29 @@
+# Web app framework
+streamlit
+
+# LangChain core
+langchain
+langchain-community
+
+# Transformers (for NLP models)
+transformers
+torch
+
+# Embeddings & vector database
+faiss-cpu
+sentence-transformers
+
+# YAML config loader
+PyYAML
+
+# Optional but useful (better performance and parsing)
+tiktoken
+numpy
+streamlit
+openai
+PyYAML
+langchain
+faiss-cpu
+tiktoken
+
+
